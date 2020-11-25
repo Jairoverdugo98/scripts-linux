@@ -7,6 +7,6 @@ En este repositorio podras encontrar scripts que te facilitara el mantenimiento 
 2.- Scripts usuarios
 ## Videos
 ## Referencias
-Canal de FP Rodrigo Caro(https://www.youtube.com/channel/UCE67X-TxJzc_9I_lAztga8g)
+[Canal de FP Rodrigo Caro](https://www.youtube.com/channel/UCE67X-TxJzc_9I_lAztga8g)
 ## Página Web
 
